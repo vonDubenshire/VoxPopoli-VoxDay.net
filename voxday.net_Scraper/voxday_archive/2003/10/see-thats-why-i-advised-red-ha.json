@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/10/26/see-thats-why-i-advised-red-ha/",
+  "scraped_at": "2025-12-13T15:32:06.702024",
+  "title": "See, that’s why I advised Red Hat",
+  "date_display": "October 26, 2003",
+  "date_iso": "2003-10-26T12:33:00+00:00",
+  "date_from_url": "2003-10-26",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Okay, that’s not true.  I recommended Red Hat because I’m using Redhat 8 and I know it works.  However, I suspect that the many folks who recommended Mandrake 9.2 were doing so on the basis of its 9.1 release, not because they have used it themselves.  Mandrake 9.2 <a href=\"http://www.mandrakelinux.com/en/errata.php3\">is not looking so great</a> at the moment, at least not for those with LG Electronics CD-Rom drives, which apparently are widely used in Dell machines.  However, the statement from LG Electronics seemed to imply that the problem is a Linux incompatibility, not a Mandrake one, so clearly more information is needed before we can conclude either:</p><p>a) another distro would be a better option for beginners<br> <br>b) Dell users can’t migrate to Linux</br></br></p><p>Now, (b) can’t be entirely true, as I’m typing this on a Dell Latitude CPx running Redhat 8.  However, it’s pretty obvious that before you install Mandrake 9.2, and quite possibly any other flavor of Linux, you’ve got to make sure you don’t have an LG Electronics CD-Rom drive.</p></div>",
+  "content_text": "Okay, that’s not true.  I recommended Red Hat because I’m using Redhat 8 and I know it works.  However, I suspect that the many folks who recommended Mandrake 9.2 were doing so on the basis of its 9.1 release, not because they have used it themselves.  Mandrake 9.2\nis not looking so great\nat the moment, at least not for those with LG Electronics CD-Rom drives, which apparently are widely used in Dell machines.  However, the statement from LG Electronics seemed to imply that the problem is a Linux incompatibility, not a Mandrake one, so clearly more information is needed before we can conclude either:\na) another distro would be a better option for beginners\nb) Dell users can’t migrate to Linux\nNow, (b) can’t be entirely true, as I’m typing this on a Dell Latitude CPx running Redhat 8.  However, it’s pretty obvious that before you install Mandrake 9.2, and quite possibly any other flavor of Linux, you’ve got to make sure you don’t have an LG Electronics CD-Rom drive.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-10-26T12:33:00+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/11/08/fedora-doesnt-fit-we/",
+  "scraped_at": "2025-12-13T15:33:49.291555",
+  "title": "Fedora doesn’t fit well",
+  "date_display": "November 8, 2003",
+  "date_iso": "2003-11-08T13:08:00+00:00",
+  "date_from_url": "2003-11-08",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Well, the upgrade from Redhat 9 killed my Internet access.  From doing some searching on the Internet, it looks like I’m not alone in this.  While I’m sure there’s a workaround, this does prove that Linux remains firmly in power user territory.  In the meantime, since it’s only a test machine, I’m doing a full install that will wipe out everything and let me put the Internet access together from scratch.  This may not work, since the key RPM is for an older kernel – I think – but we’ll have a whack at it and see what happens.  There’s certainly some research to do before I’ll dare to put it on my current work machine, which is staying with Redhat for now.</p><p>Disappointing, to say the least, but not entirely unexpected.</p></div>",
+  "content_text": "Well, the upgrade from Redhat 9 killed my Internet access.  From doing some searching on the Internet, it looks like I’m not alone in this.  While I’m sure there’s a workaround, this does prove that Linux remains firmly in power user territory.  In the meantime, since it’s only a test machine, I’m doing a full install that will wipe out everything and let me put the Internet access together from scratch.  This may not work, since the key RPM is for an older kernel – I think – but we’ll have a whack at it and see what happens.  There’s certainly some research to do before I’ll dare to put it on my current work machine, which is staying with Redhat for now.\nDisappointing, to say the least, but not entirely unexpected.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-11-08T13:08:00+00:00"
+}

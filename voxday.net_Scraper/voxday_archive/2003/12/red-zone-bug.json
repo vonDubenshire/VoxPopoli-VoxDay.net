@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/12/28/red-zone-bug/",
+  "scraped_at": "2025-12-13T15:40:24.642905",
+  "title": "Red zone bug",
+  "date_display": "December 28, 2003",
+  "date_iso": "2003-12-28T19:06:00+00:00",
+  "date_from_url": "2003-12-28",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Madden’s 2004 has a pretty humorous bug in it.  When the computer has the ball inside the five-yard line, a play-action call will result in the quarterback faking the handoff to the running back, then immediately throwing the ball <em>while he is still facing backward</em>.  This, of course, is a fumble, and since the defense is usually rushing aggressively, will tend to result in the ball being scooped up and returned for a defensive touchdown.</p><p>I thought it was just an anomaly when it happened the first time a few weeks ago, but when it happened again today from a similar formation, I realized it was a bug.  The quarterback is obviously programmed to throw the ball before he has time to turn around.  A nice 14-point turnaround there.</p></div>",
+  "content_text": "Madden’s 2004 has a pretty humorous bug in it.  When the computer has the ball inside the five-yard line, a play-action call will result in the quarterback faking the handoff to the running back, then immediately throwing the ball\nwhile he is still facing backward\n.  This, of course, is a fumble, and since the defense is usually rushing aggressively, will tend to result in the ball being scooped up and returned for a defensive touchdown.\nI thought it was just an anomaly when it happened the first time a few weeks ago, but when it happened again today from a similar formation, I realized it was a bug.  The quarterback is obviously programmed to throw the ball before he has time to turn around.  A nice 14-point turnaround there.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-12-28T19:06:00+00:00"
+}

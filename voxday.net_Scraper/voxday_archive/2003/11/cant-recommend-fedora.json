@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/11/13/cant-recommend-fedora/",
+  "scraped_at": "2025-12-13T15:34:28.206269",
+  "title": "Can’t recommend Fedora",
+  "date_display": "November 13, 2003",
+  "date_iso": "2003-11-13T13:17:00+00:00",
+  "date_from_url": "2003-11-13",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>In addition to the bizarre problems I’ve been having with my wireless card – it works when the loader says FAIL and doesn’t work when it says PASS – a friend of mine has now had grub eat his new Linux partitions and the boot loader can’t find anything but his old Windows XP partitions.  I’m sticking with RH9 for my work machines for the nonce, and I’m going to give both SUSE and Mandrake 9.2 a whirl on Guinea Pig, she of the broken USB interface.</p><p>OS News expresses the opinion that <a href=\"http://www.osnews.com/story.php?news_id=5111\">Fedora Core 1</a> was released sooner than it should have been.  From what I’ve seen as a new Linux user, I would tend to agree.</p></div>",
+  "content_text": "In addition to the bizarre problems I’ve been having with my wireless card – it works when the loader says FAIL and doesn’t work when it says PASS – a friend of mine has now had grub eat his new Linux partitions and the boot loader can’t find anything but his old Windows XP partitions.  I’m sticking with RH9 for my work machines for the nonce, and I’m going to give both SUSE and Mandrake 9.2 a whirl on Guinea Pig, she of the broken USB interface.\nOS News expresses the opinion that\nFedora Core 1\nwas released sooner than it should have been.  From what I’ve seen as a new Linux user, I would tend to agree.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-11-13T13:17:00+00:00"
+}

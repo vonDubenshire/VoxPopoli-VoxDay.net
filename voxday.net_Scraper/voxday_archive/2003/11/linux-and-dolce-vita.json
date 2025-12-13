@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/11/24/linux-and-dolce-vita/",
+  "scraped_at": "2025-12-13T15:35:55.252073",
+  "title": "Linux and the dolce vita",
+  "date_display": "November 24, 2003",
+  "date_iso": "2003-11-24T07:59:00+00:00",
+  "date_from_url": "2003-11-24",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>I’m still running quite happily on Red Hat 9, blogging this blog with Mozilla Firebird, and writing both my columns and novels using OpenOffice 1.1.  No operational problems, although I still have to switch back into Windows to hotsync my Alphasmart Dana, which has sadly turned out to be far too flaky to trust with important data anyhow.  In other words, I don’t bother much.  There’s not much to talk about, really.  My machines run, I write, that’s pretty much it.</p><p>I still have to get the house network finished off, but I’m waiting to try SUSE 9.0 and Mandrake 9.2 first.  Other than games, there’s nothing mission critical that needs to be done, just a few minor issues.  Does anyone know a good way to convert .wdb or .csv files into .vcf that can be read by Evolution?  I’ve tried two different methods so far – never got csv2vcard working properly with Ruby and everything, and a web-based form system did convert the file, but did so poorly.</p><p>No big deal, I’m just not in the mood to type all of my contacts in again.</p></div>",
+  "content_text": "I’m still running quite happily on Red Hat 9, blogging this blog with Mozilla Firebird, and writing both my columns and novels using OpenOffice 1.1.  No operational problems, although I still have to switch back into Windows to hotsync my Alphasmart Dana, which has sadly turned out to be far too flaky to trust with important data anyhow.  In other words, I don’t bother much.  There’s not much to talk about, really.  My machines run, I write, that’s pretty much it.\nI still have to get the house network finished off, but I’m waiting to try SUSE 9.0 and Mandrake 9.2 first.  Other than games, there’s nothing mission critical that needs to be done, just a few minor issues.  Does anyone know a good way to convert .wdb or .csv files into .vcf that can be read by Evolution?  I’ve tried two different methods so far – never got csv2vcard working properly with Ruby and everything, and a web-based form system did convert the file, but did so poorly.\nNo big deal, I’m just not in the mood to type all of my contacts in again.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-11-24T07:59:00+00:00"
+}

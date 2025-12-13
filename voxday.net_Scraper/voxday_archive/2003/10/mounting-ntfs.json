@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/10/23/mounting-ntfs/",
+  "scraped_at": "2025-12-13T15:31:46.851548",
+  "title": "Mounting NTFS",
+  "date_display": "October 23, 2003",
+  "date_iso": "2003-10-23T17:40:00+00:00",
+  "date_from_url": "2003-10-23",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Always working towards interoperability, Microsoft has refused to release information on working with NTFS partitions – which is basically what NT, 2000 and XP drives are.  And, as usual, the Open Source community has made significant headway despite this.  Anyhow, it is possible to mount a NTFS drive under Linux, although Redhat users must patch the kernel first.  Another point for Mandrake there, I suppose.  Fortunately, it is <a href=\"http://linux-ntfs.sourceforge.net/info/redhat.html\">really easy</a> and <a href=\"http://linux-ntfs.sourceforge.net/info/ntfs.html#4.10\">the NTFS how-to</a> is one of the best I’ve yet encounted.  Total no-brainer.</p><p>Next step: get Samba going to access in-house network.<br> <br>After that:  get Alphasmart hotsync working under WINE</br></br></p></div>",
+  "content_text": "Always working towards interoperability, Microsoft has refused to release information on working with NTFS partitions – which is basically what NT, 2000 and XP drives are.  And, as usual, the Open Source community has made significant headway despite this.  Anyhow, it is possible to mount a NTFS drive under Linux, although Redhat users must patch the kernel first.  Another point for Mandrake there, I suppose.  Fortunately, it is\nreally easy\nand\nthe NTFS how-to\nis one of the best I’ve yet encounted.  Total no-brainer.\nNext step: get Samba going to access in-house network.\nAfter that:  get Alphasmart hotsync working under WINE",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-10-23T16:40:00+00:00"
+}

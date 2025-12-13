@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/11/03/dying-dells/",
+  "scraped_at": "2025-12-13T15:33:08.220227",
+  "title": "Dying Dells",
+  "date_display": "November 3, 2003",
+  "date_iso": "2003-11-03T15:34:00+00:00",
+  "date_from_url": "2003-11-03",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>It’s not a good sign when your laptop screen suddenly draws a thin white line down the middle, segmenting the screen into a two-thirds/one-third vertical division.  It’s especially bad when it shows up in the initial BIOS setup.  I’m curious to know, however, if this could possibly have been caused by my selecting the wrong display type in Redhat 9, or if it was just a unfortunate coincidence of timing.  My other, identical laptop has the same Dell 1280x Laptop type selected, and I would prefer to avoid ruining both machines if that is possible.</p><p>My instincts tell me that it had nothing to do with this, though, since this is only the latest in a long string of hardware failures for this pair of Latitude CPx machines.  Considering that I never take them anywhere, I can’t imagine that they would have lasted more than five weeks if they’d ever left the house.  But if anyone knows more about this sort of thing, do let me know.</p></div>",
+  "content_text": "It’s not a good sign when your laptop screen suddenly draws a thin white line down the middle, segmenting the screen into a two-thirds/one-third vertical division.  It’s especially bad when it shows up in the initial BIOS setup.  I’m curious to know, however, if this could possibly have been caused by my selecting the wrong display type in Redhat 9, or if it was just a unfortunate coincidence of timing.  My other, identical laptop has the same Dell 1280x Laptop type selected, and I would prefer to avoid ruining both machines if that is possible.\nMy instincts tell me that it had nothing to do with this, though, since this is only the latest in a long string of hardware failures for this pair of Latitude CPx machines.  Considering that I never take them anywhere, I can’t imagine that they would have lasted more than five weeks if they’d ever left the house.  But if anyone knows more about this sort of thing, do let me know.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-11-03T15:34:00+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/10/22/apt-get-for-redha/",
+  "scraped_at": "2025-12-13T15:31:36.452819",
+  "title": "apt-get for Redhat",
+  "date_display": "October 22, 2003",
+  "date_iso": "2003-10-22T10:34:00+00:00",
+  "date_from_url": "2003-10-22",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>apt-get is a very useful Debian application, which is often cited as the reason that Debian’s installation tends to the crude side – not much point in polishing it up when it’s so easy to get everything configured after the fact with apt-get. <a href=\"http://psyche.freshrpms.net/rpm.html?id=1020\">Apt-get has been ported to Redhat Linux</a>, and in combination with synaptic, provides the Redhat user with a graphical apt-get.  It’s rather like Red Carpet, only with far more RPMs to choose from.  This download is a no-brainer – I’ll have to add it to yesterday’s installation guide.</p><p>I’ve found the combination of apt-get and synaptic to be very useful, in part because they tell me what some of these random applications on my system actually do.  I just used it to download XMAME, for which I already have all of the necessary roms to transform my Linux machine into a full-blown arcade.  Wocka-wocka-wocka!</p></div>",
+  "content_text": "apt-get is a very useful Debian application, which is often cited as the reason that Debian’s installation tends to the crude side – not much point in polishing it up when it’s so easy to get everything configured after the fact with apt-get.\nApt-get has been ported to Redhat Linux\n, and in combination with synaptic, provides the Redhat user with a graphical apt-get.  It’s rather like Red Carpet, only with far more RPMs to choose from.  This download is a no-brainer – I’ll have to add it to yesterday’s installation guide.\nI’ve found the combination of apt-get and synaptic to be very useful, in part because they tell me what some of these random applications on my system actually do.  I just used it to download XMAME, for which I already have all of the necessary roms to transform my Linux machine into a full-blown arcade.  Wocka-wocka-wocka!",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-10-22T09:34:00+00:00"
+}

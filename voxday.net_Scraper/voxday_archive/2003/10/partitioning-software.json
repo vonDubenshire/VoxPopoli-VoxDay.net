@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2003/10/29/partitioning-software/",
+  "scraped_at": "2025-12-13T15:32:37.393424",
+  "title": "Partitioning software",
+  "date_display": "October 29, 2003",
+  "date_iso": "2003-10-29T13:03:00+00:00",
+  "date_from_url": "2003-10-29",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>One of the difficulties in migrating to Linux is the probable need to partition your hard drive if you want a dual-boot system.  Since Microsoft doesn’t want to make it easy for you to escape Windows, you need to turn to third party software.  Partition Magic is the best known, but I just tried out <a href=\"http://terabyteunlimited.com/\">BootIt NG</a>, which is a shareware package that does the trick rather nicely.  It’s actually far more powerful than most people need – I don’t want a boot manager – I just needed to split one giant drive into two partitions.</p><p>Anyhow, it’s pretty easy to use, not very expensive, and I’ll post a how-to up here after I tackle the third machine’s drive.</p></div>",
+  "content_text": "One of the difficulties in migrating to Linux is the probable need to partition your hard drive if you want a dual-boot system.  Since Microsoft doesn’t want to make it easy for you to escape Windows, you need to turn to third party software.  Partition Magic is the best known, but I just tried out\nBootIt NG\n, which is a shareware package that does the trick rather nicely.  It’s actually far more powerful than most people need – I don’t want a boot manager – I just needed to split one giant drive into two partitions.\nAnyhow, it’s pretty easy to use, not very expensive, and I’ll post a how-to up here after I tackle the third machine’s drive.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2003-10-29T13:03:00+00:00"
+}
