@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2012/02/09/access-issues/",
+  "scraped_at": "2025-12-14T04:46:51.561871",
+  "title": "Access issues",
+  "date_display": "February 9, 2012",
+  "date_iso": "2012-02-09T18:00:00+00:00",
+  "date_from_url": "2012-02-09",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Difster has a solution for worldwide readers:</p><blockquote><p>Some people are having trouble reading comments on your blog from other countries. Those outside of the US who are being routed to a country code and want to read comments can append /ncr to the end of your blogger address: http://voxday.blogspot.com/ncr</p></blockquote><p>Also note that if you type in wwww before the blog address, you’ll go to a different location that is missing all of the comments.  I don’t know how to eliminate this problem since I don’t know how it arose in the first place.  Based on the link statistics, about 10 percent of the blog readers here are on the www location rather than the proper one.</p></div>",
+  "content_text": "Difster has a solution for worldwide readers:\nSome people are having trouble reading comments on your blog from other countries. Those outside of the US who are being routed to a country code and want to read comments can append /ncr to the end of your blogger address: http://voxday.blogspot.com/ncr\nAlso note that if you type in wwww before the blog address, you’ll go to a different location that is missing all of the comments.  I don’t know how to eliminate this problem since I don’t know how it arose in the first place.  Based on the link statistics, about 10 percent of the blog readers here are on the www location rather than the proper one.",
+  "tags": [
+    "mailvox"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2012-02-09T18:00:00+00:00"
+}
