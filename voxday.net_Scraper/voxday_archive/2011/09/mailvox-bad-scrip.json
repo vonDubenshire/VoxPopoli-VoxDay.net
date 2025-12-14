@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2011/09/09/mailvox-bad-scrip/",
+  "scraped_at": "2025-12-13T23:21:17.199218",
+  "title": "Mailvox: bad script",
+  "date_display": "September 9, 2011",
+  "date_iso": "2011-09-09T06:21:00+00:00",
+  "date_from_url": "2011-09-09",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>GS and others using IE have written to tell of a problem:</p><blockquote><p>Since Sept 7th I have been repeatedly getting the message “A script on this page is causing your web browser to run slowly….” and locks my browser on your web/blog page.  I am not having this problem on other pages.   I have internet explorer 8.0 on windows 7.0 professional 64 bit.</p></blockquote><p>I just removed one Facebook “pagetracker” script from the template.  The other possible culprits are Mises, CoComment, and Google Analytics, but there aren’t that many scripts on the site.  If you’re using IE and getting the “A script on this page is causing Internet Explorer to run slowly” message, go to <a href=\"http://support.microsoft.com/kb/175500\">this Microsoft site</a> and click the “Fix it for me” link.  Please let me know if that takes care of the problem.</p></div>",
+  "content_text": "GS and others using IE have written to tell of a problem:\nSince Sept 7th I have been repeatedly getting the message “A script on this page is causing your web browser to run slowly….” and locks my browser on your web/blog page.  I am not having this problem on other pages.   I have internet explorer 8.0 on windows 7.0 professional 64 bit.\nI just removed one Facebook “pagetracker” script from the template.  The other possible culprits are Mises, CoComment, and Google Analytics, but there aren’t that many scripts on the site.  If you’re using IE and getting the “A script on this page is causing Internet Explorer to run slowly” message, go to\nthis Microsoft site\nand click the “Fix it for me” link.  Please let me know if that takes care of the problem.",
+  "tags": [
+    "mailvox"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2011-09-09T05:21:00+00:00"
+}

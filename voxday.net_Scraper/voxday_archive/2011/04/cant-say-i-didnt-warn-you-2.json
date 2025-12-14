@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2011/04/20/cant-say-i-didnt-warn-you-2/",
+  "scraped_at": "2025-12-13T23:08:47.447599",
+  "title": "Can’t say I didn’t warn you",
+  "date_display": "April 20, 2011",
+  "date_iso": "2011-04-20T18:15:00+00:00",
+  "date_from_url": "2011-04-20",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>About <a href=\"http://www.nationalreview.com/corner/265255/apple-logging-and-storing-all-your-iphones-location-data-nathan-goulding\">the technofascists at Apple</a>:</p><blockquote><p>This is sort of a big deal. Apple is, without your consent or any warning labels, logging all of your iPhone’s location data and then transferring it over to your computer when you backup or sync your iPhone. The information is easily accessible — unencrypted and in a standard database format. (The option to encrypt is there, though I haven’t tested whether this option obscures your location data.)</p><p>Upshot? Any program you install or anyone you let on your computer could access this data, giving that program or that person full access to where you were and when you were there.</p></blockquote><p>Check out the link.  They have <a href=\"http://www.nationalreview.com/sites/default/files/nfs/uploaded/gareth%20iphone.png\">a map they were able to make</a> of one of their employee’s locations.  This is pretty egregious and is likely to have some unexpected ramifications.  Just to give one example, given how popular iPhones are with women, it shouldn’t be hard to see that this “feature” is going to lead to more than a few divorces and breakups in the near future.</p></div>",
+  "content_text": "About\nthe technofascists at Apple\n:\nThis is sort of a big deal. Apple is, without your consent or any warning labels, logging all of your iPhone’s location data and then transferring it over to your computer when you backup or sync your iPhone. The information is easily accessible — unencrypted and in a standard database format. (The option to encrypt is there, though I haven’t tested whether this option obscures your location data.)\nUpshot? Any program you install or anyone you let on your computer could access this data, giving that program or that person full access to where you were and when you were there.\nCheck out the link.  They have\na map they were able to make\nof one of their employee’s locations.  This is pretty egregious and is likely to have some unexpected ramifications.  Just to give one example, given how popular iPhones are with women, it shouldn’t be hard to see that this “feature” is going to lead to more than a few divorces and breakups in the near future.",
+  "tags": [
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2011-04-20T17:15:00+00:00"
+}
