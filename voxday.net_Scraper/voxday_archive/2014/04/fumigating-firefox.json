@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2014/04/08/fumigating-firefox/",
+  "scraped_at": "2025-12-15T16:52:12.232482",
+  "title": "Fumigating the Firefox",
+  "date_display": "April 8, 2014",
+  "date_iso": "2014-04-08T19:00:00+00:00",
+  "date_from_url": "2014-04-08",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Since Pale Moon is built upon a Firefox base, it still reports itself to be Firefox to web sites by default. Fortunately, it is trivially simple to turn this off and cause the browser to correctly report itself as PaleMoon.</p><ol><li>Create a new tab.</li><li>Type “about:config” into the Address Bar as if it were an internet site (URL).</li><li>Type “compatMode” into the Search box that will appear right below the Address Bar.</li><li>On the line <b>general.useragent.compatMode.firefox</b> there are three settings: user set, boolean, true. Click on “true” and it will change to false.</li><li>Close the tab.</li></ol><p>That’s it. Web sites will no longer incorrectly attribute your pageviews to Firefox. If as many people have switched to Pale Moon as have switched to Chrome, the decline in Firefox usage may actually be twice what I originally estimated.</p></div>",
+  "content_text": "Since Pale Moon is built upon a Firefox base, it still reports itself to be Firefox to web sites by default. Fortunately, it is trivially simple to turn this off and cause the browser to correctly report itself as PaleMoon.\nCreate a new tab.\nType “about:config” into the Address Bar as if it were an internet site (URL).\nType “compatMode” into the Search box that will appear right below the Address Bar.\nOn the line\ngeneral.useragent.compatMode.firefox\nthere are three settings: user set, boolean, true. Click on “true” and it will change to false.\nClose the tab.\nThat’s it. Web sites will no longer incorrectly attribute your pageviews to Firefox. If as many people have switched to Pale Moon as have switched to Chrome, the decline in Firefox usage may actually be twice what I originally estimated.",
+  "tags": [
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2014-04-08T18:00:00+00:00"
+}
