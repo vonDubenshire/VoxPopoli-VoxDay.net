@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2014/11/14/fumigating-firefox-redux/",
+  "scraped_at": "2025-12-16T12:34:49.617072",
+  "title": "Fumigating the Firefox, redux",
+  "date_display": "November 14, 2014",
+  "date_iso": "2014-11-14T11:18:00+00:00",
+  "date_from_url": "2014-11-14",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>I’m reposting this since Mozilla’s decision to place ads in Firefox has even more people moving to Pale Moon. Fortunately, it is trivially simple to turn this off and cause the browser to correctly report itself as PaleMoon.</p><p>    Create a new tab.<br>    Type “about:config” into the Address Bar as if it were an internet site (URL).<br>    Type “compatMode” into the Search box that will appear right below the Address Bar.<br>    On the line general.useragent.compatMode.firefox there are three settings: user set, boolean, true. Click on “true” and it will change to false.<br>    Close the tab.</br></br></br></br></p><p>That’s it. Web sites will no longer incorrectly attribute your pageviews to Firefox. This is important, because Firefox’s only real value is in its brand, and as the number of reported Firefox users continues to fall, Google’s rationale for propping up Mozilla is reduced as well.</p></div>",
+  "content_text": "I’m reposting this since Mozilla’s decision to place ads in Firefox has even more people moving to Pale Moon. Fortunately, it is trivially simple to turn this off and cause the browser to correctly report itself as PaleMoon.\nCreate a new tab.\nType “about:config” into the Address Bar as if it were an internet site (URL).\nType “compatMode” into the Search box that will appear right below the Address Bar.\nOn the line general.useragent.compatMode.firefox there are three settings: user set, boolean, true. Click on “true” and it will change to false.\nClose the tab.\nThat’s it. Web sites will no longer incorrectly attribute your pageviews to Firefox. This is important, because Firefox’s only real value is in its brand, and as the number of reported Firefox users continues to fall, Google’s rationale for propping up Mozilla is reduced as well.",
+  "tags": [
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2014-11-14T11:18:00+00:00"
+}
