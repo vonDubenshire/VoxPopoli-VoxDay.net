@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2016/02/29/more-entryism-in-open-source/",
+  "scraped_at": "2025-12-17T17:47:59.138335",
+  "title": "More entryism in Open Source",
+  "date_display": "February 29, 2016",
+  "date_iso": "2016-02-29T18:00:00+00:00",
+  "date_from_url": "2016-02-29",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>This is both pathetic and a naked attempt to inspire the useless entryists by giving them credit for trying to impose a Code of Conduct on a project. Techno-virtue-signaling <a href=\"https://github.com/kentcdodds/all-contributors\">at its finest</a>:</p><blockquote class=\"tr_bq\"><p> Recognize all contributors, not just the ones who push code</p><p>This is a specification for recognizing contributors to a project in a way that rewards any and every contribution<br> whether or not it be code. The basic idea is this:</br></p><blockquote><p> Use the project README (the most public part of most projects) to<br> recognize the contributions of members of the project community.</br></p></blockquote><p>People are giving of themselves and their free time to contribute to open source projects in so many ways. It can be a real<br> time sink sometimes and so they should be praised for all their contributions (code or not). Use this project as an example implementation of the all-contributors specification (see the <a href=\"https://github.com/kentcdodds/all-contributors#contributors\">Contributors</a> section below.</br></p></blockquote><p>After all, where will we be if the contributors who don’t contribute anything feel bad about themselves? That would be like the Holocaust! You know who else didn’t give proper credit to non-coders? That’s right, Hitler.</p><ol></ol></div>",
+  "content_text": "This is both pathetic and a naked attempt to inspire the useless entryists by giving them credit for trying to impose a Code of Conduct on a project. Techno-virtue-signaling\nat its finest\n:\nRecognize all contributors, not just the ones who push code\nThis is a specification for recognizing contributors to a project in a way that rewards any and every contribution\nwhether or not it be code. The basic idea is this:\nUse the project README (the most public part of most projects) to\nrecognize the contributions of members of the project community.\nPeople are giving of themselves and their free time to contribute to open source projects in so many ways. It can be a real\ntime sink sometimes and so they should be praised for all their contributions (code or not). Use this project as an example implementation of the all-contributors specification (see the\nContributors\nsection below.\nAfter all, where will we be if the contributors who don’t contribute anything feel bad about themselves? That would be like the Holocaust! You know who else didn’t give proper credit to non-coders? That’s right, Hitler.",
+  "tags": [
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2016-02-29T18:00:00+00:00"
+}

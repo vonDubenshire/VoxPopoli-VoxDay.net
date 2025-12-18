@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2016/06/22/any-ideas/",
+  "scraped_at": "2025-12-17T18:02:45.812479",
+  "title": "VASSAL doesn’t work on Windows 10",
+  "date_display": "June 22, 2016",
+  "date_iso": "2016-06-22T20:54:00+00:00",
+  "date_from_url": "2016-06-22",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>I can’t seem to get VASSAL working on Windows 10 with the latest Java. It installs fine, but upon running it, nothing happens. Anyone seen this before?</p><p>UPDATE: I tried installing a 32-bit version, Version 8 Update 91. Still no joy.</p><p>UPDATE 2: Finally figured it out. There was a VASSAL directory in the hidden User/Name/Appdata/Roaming directory, and the error log was showing old dates, presumably from a previously installed version of VASSAL. I deleted that VASSAL directory, emptied the Trash, then double-clicked on the VASSAL icon. It works like a charm, although I did need to re-select my VASL boards directory in order to get my ASL boards to show up properly.</p><p>Thanks to everyone who suggested fixes.</p><p>UPDATE 3: I’ve changed the name so it will show up on Google searches. If VASSAL 3.16 doesn’t run on Windows 10 with Java 8, the problem may be a previous installation. Don’t worry, there is a fix.</p><ol><li>Go to your C:/Users/YOURNAME directory, and under View, check the hidden items checkbox. This will reveal the hidden Appdata directory.</li><li>Go to C:/Users/YOURNAME/Appdata/Roaming. There will be a VASSAL directory there. </li><li>Delete the VASSAL directory.</li><li>Now try launching VASSAL again.</li></ol></div>",
+  "content_text": "I can’t seem to get VASSAL working on Windows 10 with the latest Java. It installs fine, but upon running it, nothing happens. Anyone seen this before?\nUPDATE: I tried installing a 32-bit version, Version 8 Update 91. Still no joy.\nUPDATE 2: Finally figured it out. There was a VASSAL directory in the hidden User/Name/Appdata/Roaming directory, and the error log was showing old dates, presumably from a previously installed version of VASSAL. I deleted that VASSAL directory, emptied the Trash, then double-clicked on the VASSAL icon. It works like a charm, although I did need to re-select my VASL boards directory in order to get my ASL boards to show up properly.\nThanks to everyone who suggested fixes.\nUPDATE 3: I’ve changed the name so it will show up on Google searches. If VASSAL 3.16 doesn’t run on Windows 10 with Java 8, the problem may be a previous installation. Don’t worry, there is a fix.\nGo to your C:/Users/YOURNAME directory, and under View, check the hidden items checkbox. This will reveal the hidden Appdata directory.\nGo to C:/Users/YOURNAME/Appdata/Roaming. There will be a VASSAL directory there.\nDelete the VASSAL directory.\nNow try launching VASSAL again.",
+  "tags": [
+    "games"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2016-06-22T19:54:00+00:00"
+}
