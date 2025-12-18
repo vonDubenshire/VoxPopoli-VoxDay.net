@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2016/07/22/how-to-use-brave-at-vp/",
+  "scraped_at": "2025-12-18T01:45:23.106487",
+  "title": "How to use Brave at VP",
+  "date_display": "July 22, 2016",
+  "date_iso": "2016-07-22T22:40:00+00:00",
+  "date_from_url": "2016-07-22",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>After trying to sort out a different issue, I inadvertently discovered the problem with using Brave to comment here at VP. This is how to correct the problem and allow Brave users to comment here, assuming that you are like me and tend to keep your security levels reasonably high.</p><ol><li>Log into Google.</li><li>Go to VP.</li><li>Click on the orange lion head on the upper right to Open Bravery Panel. It will say Brave site shield settings for voxday.blogspot.com or your national equivalent.</li><li>Take the shields down.</li></ol><p>This also works with Name/URL for those who don’t wish to utilize a Google account. It is safe because the only scripts here are the local book carousel scripts, the Google scripts, and the Amazon scripts and it will only affect your browser security settings on this site. And you can click to see for yourself exactly what they are and confirm for yourself that they are harmless.</p><p>At the present, only one percent of the users here are on Brave. Let’s get that up over 20 percent! Even at this early stage, it really is worth the minor additional effort required.</p><p> KNOWN BUG AND TEMPORARY FIX: I was having a problem with both Twitter and Blogger periodically logging me out for no apparent reason. To prevent this, go to Settings, then Security, and under Private Data, turn off Clear All Site Cookies when Brave is closed.</p></div>",
+  "content_text": "After trying to sort out a different issue, I inadvertently discovered the problem with using Brave to comment here at VP. This is how to correct the problem and allow Brave users to comment here, assuming that you are like me and tend to keep your security levels reasonably high.\nLog into Google.\nGo to VP.\nClick on the orange lion head on the upper right to Open Bravery Panel. It will say Brave site shield settings for voxday.blogspot.com or your national equivalent.\nTake the shields down.\nThis also works with Name/URL for those who don’t wish to utilize a Google account. It is safe because the only scripts here are the local book carousel scripts, the Google scripts, and the Amazon scripts and it will only affect your browser security settings on this site. And you can click to see for yourself exactly what they are and confirm for yourself that they are harmless.\nAt the present, only one percent of the users here are on Brave. Let’s get that up over 20 percent! Even at this early stage, it really is worth the minor additional effort required.\nKNOWN BUG AND TEMPORARY FIX: I was having a problem with both Twitter and Blogger periodically logging me out for no apparent reason. To prevent this, go to Settings, then Security, and under Private Data, turn off Clear All Site Cookies when Brave is closed.",
+  "tags": [
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2016-07-22T21:40:00+00:00"
+}
