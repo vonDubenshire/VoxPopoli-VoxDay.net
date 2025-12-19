@@ -1,0 +1,17 @@
+{
+  "url": "https://voxday.net/2017/08/20/castalia-temporarily-down/",
+  "scraped_at": "2025-12-19T10:20:55.456111",
+  "title": "Castalia temporarily down",
+  "date_display": "August 20, 2017",
+  "date_iso": "2017-08-20T19:52:00+00:00",
+  "date_from_url": "2017-08-20",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>No worries. It’s neither DDOS or deplatforming; we have partial access to the server. It’s just a WordPress database error; we may need to wait until tomorrow morning to get it resolved, though.</p></div>",
+  "content_text": "No worries. It’s neither DDOS or deplatforming; we have partial access to the server. It’s just a WordPress database error; we may need to wait until tomorrow morning to get it resolved, though.",
+  "tags": [
+    "Castalia House",
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2017-08-20T18:52:00+00:00"
+}
