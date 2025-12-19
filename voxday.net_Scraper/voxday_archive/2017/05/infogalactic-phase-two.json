@@ -1,0 +1,17 @@
+{
+  "url": "https://voxday.net/2017/05/06/infogalactic-phase-two/",
+  "scraped_at": "2025-12-18T07:13:00.646607",
+  "title": "Infogalactic Phase Two",
+  "date_display": "May 6, 2017",
+  "date_iso": "2017-05-06T10:49:00+00:00",
+  "date_from_url": "2017-05-06",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>This is the current state of Infogalactic development and <a href=\"https://infogalactic.com/info/Infogalactic:Roadmap\">the updated Road Map</a>. Phase One is complete and we are now officially in Phase Two.</p><p><u>Phase One</u></p><p>FUND LEVEL COMPLETE</p><p>Image load speed improvement – COMPLETE<br> Search time speed improvement – COMPLETE (needs additional improvement)<br> Integration with Brave browser – COMPLETE<br> Operational ad server – COMPLETE<br> Additional administration and editing levels – COMPLETE</br></br></br></br></p><p>PHASE ONE COMPLETE</p><p>The reason we’re not putting more time and effort into tweaking the performance is that doing so would involve spending more time refining the Wikimedia engine that we’re in the process of replacing anyhow. So, now that the site is reasonably functional, we prefer to focus our development efforts on the new engine since that will provide both increased performance as well as the ability to incorporate the planned new features.</p><p><b><u><br/></u></b><br> <b><u>Phase Two</u></b></br></p><p>IN PROGRESS</p><p>DONTPANIC engine<br> Sub-sites wikimedia – COMPLETE<br> Sub-sites DONTPANIC<br> Ad server DONTPANIC<br> Dynamic page updates – COMPLETE<br> Improved Database categories<br> Relativity, Reliability, and Notability 1.0 algorithms</br></br></br></br></br></br></p><p>New members of the Burn Unit, please note that an email will be going out soon telling you how you can acquire your Burn Unit t-shirts. They’ve proven to be popular enough that we’re looking into making Burn Unit athletic jackets and baseball caps available as well.</p></div>",
+  "content_text": "This is the current state of Infogalactic development and\nthe updated Road Map\n. Phase One is complete and we are now officially in Phase Two.\nPhase One\nFUND LEVEL COMPLETE\nImage load speed improvement – COMPLETE\nSearch time speed improvement – COMPLETE (needs additional improvement)\nIntegration with Brave browser – COMPLETE\nOperational ad server – COMPLETE\nAdditional administration and editing levels – COMPLETE\nPHASE ONE COMPLETE\nThe reason we’re not putting more time and effort into tweaking the performance is that doing so would involve spending more time refining the Wikimedia engine that we’re in the process of replacing anyhow. So, now that the site is reasonably functional, we prefer to focus our development efforts on the new engine since that will provide both increased performance as well as the ability to incorporate the planned new features.\nPhase Two\nIN PROGRESS\nDONTPANIC engine\nSub-sites wikimedia – COMPLETE\nSub-sites DONTPANIC\nAd server DONTPANIC\nDynamic page updates – COMPLETE\nImproved Database categories\nRelativity, Reliability, and Notability 1.0 algorithms\nNew members of the Burn Unit, please note that an email will be going out soon telling you how you can acquire your Burn Unit t-shirts. They’ve proven to be popular enough that we’re looking into making Burn Unit athletic jackets and baseball caps available as well.",
+  "tags": [
+    "#AltTech",
+    "Infogalactic"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2017-05-06T09:49:00+00:00"
+}

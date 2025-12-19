@@ -1,0 +1,17 @@
+{
+  "url": "https://voxday.net/2017/05/04/infogalactic-forkbot-is-go/",
+  "scraped_at": "2025-12-18T07:12:54.071794",
+  "title": "Infogalactic: Forkbot is go!",
+  "date_display": "May 4, 2017",
+  "date_iso": "2017-05-04T22:37:00+00:00",
+  "date_from_url": "2017-05-04",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Rifleman and the Techstars are very pleased to report that the much-awaited dynamic forking tool is not only complete, not only tested, but is now operational. You can <a href=\"https://infogalactic.com/info/Special:Log/import\">see the results here</a>.</p><p>What this means is that Infogalactic will always be entirely up-to-date with Wikipedia across all five million+ pages, including the newest ones, except for those where the Infogalactic editors have improved upon specific pages.</p><p>This is probably the most significant step for The Planetary Knowledge Core since we first turned it on.</p></div>",
+  "content_text": "Rifleman and the Techstars are very pleased to report that the much-awaited dynamic forking tool is not only complete, not only tested, but is now operational. You can\nsee the results here\n.\nWhat this means is that Infogalactic will always be entirely up-to-date with Wikipedia across all five million+ pages, including the newest ones, except for those where the Infogalactic editors have improved upon specific pages.\nThis is probably the most significant step for The Planetary Knowledge Core since we first turned it on.",
+  "tags": [
+    "#AltTech",
+    "Infogalactic"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2017-05-04T21:37:00+00:00"
+}
