@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2004/06/24/possibly-stupid-question/",
+  "scraped_at": "2025-12-19T20:33:06.226955",
+  "title": "A possibly stupid question",
+  "date_display": "June 24, 2004",
+  "date_iso": "2004-06-24T09:12:00+00:00",
+  "date_from_url": "2004-06-24",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>I’m working on creating some web forms.  I understand the HTML tags, what I’m not sure about is where to call the executable action.  Is this something that has to be done by the hosting server, or is it more like Java where you just put out the call and it simply runs? The examples I’ve seen tend to suggest the latter, but I need to understand this better before I can move on.<br/></p></div>",
+  "content_text": "I’m working on creating some web forms.  I understand the HTML tags, what I’m not sure about is where to call the executable action.  Is this something that has to be done by the hosting server, or is it more like Java where you just put out the call and it simply runs? The examples I’ve seen tend to suggest the latter, but I need to understand this better before I can move on.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2004-06-24T08:12:00+00:00"
+}

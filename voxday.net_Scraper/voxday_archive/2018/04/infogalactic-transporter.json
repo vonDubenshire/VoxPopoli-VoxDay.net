@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2018/04/13/infogalactic-transporter/",
+  "scraped_at": "2025-12-19T20:57:10.683507",
+  "title": "Infogalactic Transporter",
+  "date_display": "April 13, 2018",
+  "date_iso": "2018-04-13T09:27:09+00:00",
+  "date_from_url": "2018-04-13",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>A new <a href=\"https://chrome.google.com/webstore/detail/infogalactic-transporter/majmoinlepbjapaaljlhlfhlmbblaeip\">Chrome extension</a>, courtesy of one of the Dread Ilk.</p><blockquote><p>This extension allows the user to move between Wiki and IG. Auto-redirects from Wikipedia to Infogalactic’s version of that page (whether entering via a link or the address bar).</p><p>Clicking the extension button shuttles you back to the Wiki version (and disables auto-redirect for that tab), and clicking again takes you back to Infogalactic. If you navigate away, on that tab, to some website outside either Wiki or IG, it’ll reset the behaviour back to auto-redirecting.</p><p>Behaviour is also bound to the tab in which the clicking took place – that is to say, if you click the button (thus disabling auto-redirect), and open a new tab, that new tab will obey the default redirect behaviour (taking you to Infogalactic if you visit Wikipeida).</p><p>Future goals:<br>– Easy copy/paste of wikipedia text of current page (for transporting missing content)</br></p></blockquote></div>",
+  "content_text": "A new\nChrome extension\n, courtesy of one of the Dread Ilk.\nThis extension allows the user to move between Wiki and IG. Auto-redirects from Wikipedia to Infogalactic’s version of that page (whether entering via a link or the address bar).\nClicking the extension button shuttles you back to the Wiki version (and disables auto-redirect for that tab), and clicking again takes you back to Infogalactic. If you navigate away, on that tab, to some website outside either Wiki or IG, it’ll reset the behaviour back to auto-redirecting.\nBehaviour is also bound to the tab in which the clicking took place – that is to say, if you click the button (thus disabling auto-redirect), and open a new tab, that new tab will obey the default redirect behaviour (taking you to Infogalactic if you visit Wikipeida).\nFuture goals:\n– Easy copy/paste of wikipedia text of current page (for transporting missing content)",
+  "tags": [
+    "Infogalactic"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2018-04-13T08:27:09+00:00"
+}

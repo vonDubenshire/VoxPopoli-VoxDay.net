@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2004/07/20/oo-bleg/",
+  "scraped_at": "2025-12-19T20:37:07.911450",
+  "title": "OO bleg",
+  "date_display": "July 20, 2004",
+  "date_iso": "2004-07-20T16:50:00+00:00",
+  "date_from_url": "2004-07-20",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Anyone know if there’s an invert macro for OpenOffice Calc and where it can be found?  I know there’s a Transpose function, but that only turns a vertical column into a horizontal row.  I want to take the cells in a single column and reverse the order so that:</p><p>A<br> <br>B<br> <br>C</br></br></br></br></p><p>becomes</p><p>C<br> <br>B<br> <br>A</br></br></br></br></p><p>I have the macro running in Excel, of course, but I don’t want to reboot into Windows just to flip a column.<br/></p></div>",
+  "content_text": "Anyone know if there’s an invert macro for OpenOffice Calc and where it can be found?  I know there’s a Transpose function, but that only turns a vertical column into a horizontal row.  I want to take the cells in a single column and reverse the order so that:\nA\nB\nC\nbecomes\nC\nB\nA\nI have the macro running in Excel, of course, but I don’t want to reboot into Windows just to flip a column.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2004-07-20T15:50:00+00:00"
+}

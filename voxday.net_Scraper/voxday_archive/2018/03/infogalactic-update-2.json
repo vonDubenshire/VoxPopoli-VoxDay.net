@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2018/03/22/infogalactic-update-2/",
+  "scraped_at": "2025-12-19T20:53:50.504821",
+  "title": "Infogalactic update",
+  "date_display": "March 22, 2018",
+  "date_iso": "2018-03-22T11:34:41+00:00",
+  "date_from_url": "2018-03-22",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>We made some major changes to the Infogalactic structure yesterday. While most of the work is interior stuff that will not be readily apparent to the user, we have significantly expanded our storage and processing capabilities while reducing our monthly burn rate by about one-third. This means that we are running about twice as fast and about 2.7 times more efficiently than before, while giving us considerably more control over our backend.</p><p>What this means, as you will see, is that our search time has been cut in half again. Just copy and paste <b>:i vox day</b> into the search bar of Brave and you will see what I mean.</p><p>Thanks very much to the Burn Unit, who continue to keep Infogalactic moving forward. And you should not fail to note that the Planetary Knowledge Core is actively updating itself, as even recent events such as <a href=\"https://infogalactic.com/info/2018_NCAA_Division_I_Men{e1e765f6645cfe4995202f72094ad9c88a5cb669127c8020c4b88ace2386bb53}27s_Basketball_Tournament\">March Madness 2018</a> are already documented online.</p></div>",
+  "content_text": "We made some major changes to the Infogalactic structure yesterday. While most of the work is interior stuff that will not be readily apparent to the user, we have significantly expanded our storage and processing capabilities while reducing our monthly burn rate by about one-third. This means that we are running about twice as fast and about 2.7 times more efficiently than before, while giving us considerably more control over our backend.\nWhat this means, as you will see, is that our search time has been cut in half again. Just copy and paste\n:i vox day\ninto the search bar of Brave and you will see what I mean.\nThanks very much to the Burn Unit, who continue to keep Infogalactic moving forward. And you should not fail to note that the Planetary Knowledge Core is actively updating itself, as even recent events such as\nMarch Madness 2018\nare already documented online.",
+  "tags": [
+    "Infogalactic"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2018-03-22T11:34:41+00:00"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2004/09/25/getting-closer-3/",
+  "scraped_at": "2025-12-19T20:47:15.964289",
+  "title": "Getting closer",
+  "date_display": "September 25, 2004",
+  "date_iso": "2004-09-25T09:08:00+00:00",
+  "date_from_url": "2004-09-25",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>To total Windows-free operation, not counting games.  It’s been a hassle to transfer my writing from the laptop to my Dana; while it’s doable, it’s enough of a pain that for the most part, I only use my Dana for reading.  However, after I started using Blue Nomad’s Wordsmith on the Dana, which serves as both an ebook reader and a word processor, I decided to check out the Linux utility they had available for download.</p><p>What’s nice is that the combination of Blue Nomad’s wsconv utility with a pair of scripts allows me to save a file as an RTF, right-click on it to convert it to a Palm-readable PDB format, then fire it over to the Dana.  That last step still requires hopping into Windows for now since the Dana , but someone’s already figured out how to get the Dana hotsyncing in Linux using infrared, so it’s only a matter of time before there’s a decent USB option as well.<br/></p></div>",
+  "content_text": "To total Windows-free operation, not counting games.  It’s been a hassle to transfer my writing from the laptop to my Dana; while it’s doable, it’s enough of a pain that for the most part, I only use my Dana for reading.  However, after I started using Blue Nomad’s Wordsmith on the Dana, which serves as both an ebook reader and a word processor, I decided to check out the Linux utility they had available for download.\nWhat’s nice is that the combination of Blue Nomad’s wsconv utility with a pair of scripts allows me to save a file as an RTF, right-click on it to convert it to a Palm-readable PDB format, then fire it over to the Dana.  That last step still requires hopping into Windows for now since the Dana , but someone’s already figured out how to get the Dana hotsyncing in Linux using infrared, so it’s only a matter of time before there’s a decent USB option as well.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2004-09-25T08:08:00+00:00"
+}

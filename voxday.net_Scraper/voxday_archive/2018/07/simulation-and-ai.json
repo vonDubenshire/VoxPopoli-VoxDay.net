@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2018/07/31/simulation-and-ai/",
+  "scraped_at": "2025-12-19T21:14:18.970706",
+  "title": "Simulation and AI",
+  "date_display": "July 31, 2018",
+  "date_iso": "2018-07-31T10:05:36+00:00",
+  "date_from_url": "2018-07-31",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>At DevGame, a Devstream on two different types of simulation, <a href=\"https://devgamecourse.blogspot.com/2018/07/devstream-two-types-of-simulation.html\">for process and for effect</a>.</p><blockquote><p>When you use simulation for process, you almost always have a situation where the results are not going to be realistic. The process is complicated and it is intrinsically inaccurate. It doesn’t matter whether you’re talking about an AI attempt to replicate human intelligence, whether you’re talking about an attempt to replicate an infantry firefight, or whether you’re dealing with something like a football or soccer game, in all of those cases you’re dealing with multiple layers of abstraction, and every abstraction, every assigned variable is going to be different than the real world</p><p>Even if you build a very complicated model using very accurate statistics, the small errors, the small differences, are going to multiply so that by the time that you get to the end result, you’re not going to end up with very realistic numbers.</p></blockquote><p>Also on DevGame, a reader <a href=\"https://devgamecourse.blogspot.com/2018/07/mailvox-rk-and-design.html\">raises an interesting question</a> about whether the transformation FPS games is related to r/K selection theory.</p></div>",
+  "content_text": "At DevGame, a Devstream on two different types of simulation,\nfor process and for effect\n.\nWhen you use simulation for process, you almost always have a situation where the results are not going to be realistic. The process is complicated and it is intrinsically inaccurate. It doesn’t matter whether you’re talking about an AI attempt to replicate human intelligence, whether you’re talking about an attempt to replicate an infantry firefight, or whether you’re dealing with something like a football or soccer game, in all of those cases you’re dealing with multiple layers of abstraction, and every abstraction, every assigned variable is going to be different than the real world\nEven if you build a very complicated model using very accurate statistics, the small errors, the small differences, are going to multiply so that by the time that you get to the end result, you’re not going to end up with very realistic numbers.\nAlso on DevGame, a reader\nraises an interesting question\nabout whether the transformation FPS games is related to r/K selection theory.",
+  "tags": [
+    "games"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2018-07-31T09:05:36+00:00"
+}
