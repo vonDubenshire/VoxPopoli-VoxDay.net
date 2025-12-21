@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2020/08/02/asl-the-answer/",
+  "scraped_at": "2025-12-21T13:03:13.194397",
+  "title": "ASL: the answer",
+  "date_display": "August 2, 2020",
+  "date_iso": "2020-08-02T22:54:43+00:00",
+  "date_from_url": "2020-08-02",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>I mentioned that there was a little trap in the previous post that mentioned ASL. It was actually contained in this sentence: <i>Consider, for example, the procedure required to calculate the correct Firepower (FP) total while conducting an Overrun attack on <u>exposed</u> infantry by a vehicle.</i><br><i><br/></i>The underlined word was the sperg bait, since infantry don’t need to be exposed in order to be attacked by Overrun. In fact, it’s even possible for the vehicle to destroy the infantry during the Bog check by collapsing the building as it drives into it, as per the AFV Overrun order of resolution:</br></p><ul><li>The AFV declares OVR</li><li>Bog check is first (note the EXC: list at the end of D7.1) The OVR MP expenditure must be announced as a combined expenditure with that for entrance of the hex as the vehicle enters the OVR hex, unless that hex contains only unknown enemy units (A12.41). … [EXC: Bog DR, and Defensive First Fire other than Reaction Fire (7.2), prompted by that MP expenditure (or by the MF expenditure of accompanying Infantry using Human Wave {A25.23} and Armored Assault {9.31}) are resolved first].</li><li>Then DFF against the AFV.</li><li>Then OVR.</li></ul></div>",
+  "content_text": "I mentioned that there was a little trap in the previous post that mentioned ASL. It was actually contained in this sentence:\nConsider, for example, the procedure required to calculate the correct Firepower (FP) total while conducting an Overrun attack on\nexposed\ninfantry by a vehicle.\nThe underlined word was the sperg bait, since infantry don’t need to be exposed in order to be attacked by Overrun. In fact, it’s even possible for the vehicle to destroy the infantry during the Bog check by collapsing the building as it drives into it, as per the AFV Overrun order of resolution:\nThe AFV declares OVR\nBog check is first (note the EXC: list at the end of D7.1) The OVR MP expenditure must be announced as a combined expenditure with that for entrance of the hex as the vehicle enters the OVR hex, unless that hex contains only unknown enemy units (A12.41). … [EXC: Bog DR, and Defensive First Fire other than Reaction Fire (7.2), prompted by that MP expenditure (or by the MF expenditure of accompanying Infantry using Human Wave {A25.23} and Armored Assault {9.31}) are resolved first].\nThen DFF against the AFV.\nThen OVR.",
+  "tags": [
+    "games"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2020-08-02T21:54:43+00:00"
+}
