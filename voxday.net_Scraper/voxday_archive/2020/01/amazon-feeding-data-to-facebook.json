@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2020/01/28/amazon-feeding-data-to-facebook/",
+  "scraped_at": "2025-12-21T03:14:12.092698",
+  "title": "Amazon feeding data to Facebook",
+  "date_display": "January 28, 2020",
+  "date_iso": "2020-01-28T16:45:40+00:00",
+  "date_from_url": "2020-01-28",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>The Electronic Frontier Foundation reports that Amazon’s Ring automatically <a href=\"https://www.fastcompany.com/90456776/ring-caught-giving-user-data-to-facebook-whether-they-have-an-account-or-not\">sends private user data to Facebook</a>:</p><blockquote><p>Amazon’s Ring smart doorbell surveillance product has been caught sending user data to Facebook and other companies without making Ring users aware their data was being shared. That’s according to an investigation from the Electronic Frontier Foundation (EFF). What’s even more alarming is Ring users are having their data sent to Facebook even if they themselves don’t have Facebook accounts.</p><p>The EFF examined Ring’s latest Android app and found that it had four unlisted trackers sending Ring user data back to four websites including branch.io, mixpanel.com, appsflyer.com, and facebook.com. This is despite Ring’s privacy policy, which purports to list all the trackers being used in its software. That privacy policy was last updated over a year and a half ago and doesn’t list three of the four new trackers discovered.</p><p>So what data is Ring sending to Facebook and other companies? The EFF says the information includes “the names, private IP addresses, mobile network carriers, persistent identifiers, and sensor data on the devices of paying customers.”</p></blockquote><p>This really isn’t that hard. Don’t use smart home technology. It’s all spy-on-you-in-your-home technology.</p></div>",
+  "content_text": "The Electronic Frontier Foundation reports that Amazon’s Ring automatically\nsends private user data to Facebook\n:\nAmazon’s Ring smart doorbell surveillance product has been caught sending user data to Facebook and other companies without making Ring users aware their data was being shared. That’s according to an investigation from the Electronic Frontier Foundation (EFF). What’s even more alarming is Ring users are having their data sent to Facebook even if they themselves don’t have Facebook accounts.\nThe EFF examined Ring’s latest Android app and found that it had four unlisted trackers sending Ring user data back to four websites including branch.io, mixpanel.com, appsflyer.com, and facebook.com. This is despite Ring’s privacy policy, which purports to list all the trackers being used in its software. That privacy policy was last updated over a year and a half ago and doesn’t list three of the four new trackers discovered.\nSo what data is Ring sending to Facebook and other companies? The EFF says the information includes “the names, private IP addresses, mobile network carriers, persistent identifiers, and sensor data on the devices of paying customers.”\nThis really isn’t that hard. Don’t use smart home technology. It’s all spy-on-you-in-your-home technology.",
+  "tags": [
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2020-01-28T16:45:40+00:00"
+}
