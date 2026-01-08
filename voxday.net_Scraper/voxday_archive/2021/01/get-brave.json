@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2021/01/20/get-brave/",
+  "scraped_at": "2025-12-21T22:34:35.913925",
+  "title": "Get Brave",
+  "date_display": "January 20, 2021",
+  "date_iso": "2021-01-20T10:35:29+00:00",
+  "date_from_url": "2021-01-20",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>If you aren’t already using it as your main browser, you’d better at least <a href=\"https://reclaimthenet.org/brave-ipfs/\" rel=\"noopener\" target=\"_blank\">get accustomed to it</a> given Big Tech’s assault on internet freedom:</p><blockquote><p>Brave, one of the most secure and fastest browsers, has now taken crucial steps in extending its support to a decentralized web. Brave is now going to offer native integration with a peer-to-peer networking protocol and is the first mainstream browser to do.</p><p>The browser makes use of the IPFS (InterPlanetary File System) technology to improve upon the existing HTTP protocol, while also increasing the speed of accessing content. Generally speaking, HTTP obtains information from a central server. But IPFS, however, obtains information from a network of distributed nodes.</p><p>Simply put, using IPFS is more or less like downloading from BitTorrent instead of downloading from a central server. So each time you access a website from Brave browser, the website content is obtained from various distributed nodes.</p><p>IPFS not only helps lower server costs for website owners and content publishers but also helps make web content more immune to censorship, promoting internet freedom.</p><p>Brave has already been offering early support of IPFS since 2018; but with the latest 1.19 version, users can now use IPFS directly. URLs must either be started with ipfs:// instead of http:// or a “full IPFS node in one click” must be installed.</p></blockquote></div>",
+  "content_text": "If you aren’t already using it as your main browser, you’d better at least\nget accustomed to it\ngiven Big Tech’s assault on internet freedom:\nBrave, one of the most secure and fastest browsers, has now taken crucial steps in extending its support to a decentralized web. Brave is now going to offer native integration with a peer-to-peer networking protocol and is the first mainstream browser to do.\nThe browser makes use of the IPFS (InterPlanetary File System) technology to improve upon the existing HTTP protocol, while also increasing the speed of accessing content. Generally speaking, HTTP obtains information from a central server. But IPFS, however, obtains information from a network of distributed nodes.\nSimply put, using IPFS is more or less like downloading from BitTorrent instead of downloading from a central server. So each time you access a website from Brave browser, the website content is obtained from various distributed nodes.\nIPFS not only helps lower server costs for website owners and content publishers but also helps make web content more immune to censorship, promoting internet freedom.\nBrave has already been offering early support of IPFS since 2018; but with the latest 1.19 version, users can now use IPFS directly. URLs must either be started with ipfs:// instead of http:// or a “full IPFS node in one click” must be installed.",
+  "tags": [
+    "#AltTech"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2021-01-20T10:35:29+00:00"
+}
