@@ -1,0 +1,17 @@
+{
+  "url": "https://voxday.net/2024/01/19/uatv-brave-issue/",
+  "scraped_at": "2026-01-08T14:21:36.999765",
+  "title": "UATV Brave Issue",
+  "date_display": "January 19, 2024",
+  "date_iso": "2024-01-19T14:55:43+00:00",
+  "date_from_url": "2024-01-19",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>A public service announcement from the UATV devs.</p><p><em>The current error screen shown on Unauthorized is an issue with the latest Brave update. Unauthorized is 100% operational and subscriptions are not affected in any way.</em></p><p><em>TEMPORARY FIX: Use a different browser.</em></p><p>As far as we can tell, the Brave devs broke some crucial connection components in their recent updates. They’ll almost certainly fix it soon, at which point everything should start working again.</p><p><em><a href=\"https://social.infogalactic.com/micropost/96c534a0-9e56-411e-8088-152880251c6f\">DISCUSS ON SG</a></em></p></div>",
+  "content_text": "A public service announcement from the UATV devs.\nThe current error screen shown on Unauthorized is an issue with the latest Brave update. Unauthorized is 100% operational and subscriptions are not affected in any way.\nTEMPORARY FIX: Use a different browser.\nAs far as we can tell, the Brave devs broke some crucial connection components in their recent updates. They’ll almost certainly fix it soon, at which point everything should start working again.\nDISCUSS ON SG",
+  "tags": [
+    "technology",
+    "UATV"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2024-01-19T14:55:45+00:00"
+}

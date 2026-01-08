@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2021/07/09/this-is-what-success-looks-like/",
+  "scraped_at": "2026-01-08T12:41:32.470971",
+  "title": "This is what success looks like",
+  "date_display": "July 9, 2021",
+  "date_iso": "2021-07-09T15:31:19+00:00",
+  "date_from_url": "2021-07-09",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Last night UATV successfully took a big step forward, as both Big Bear and I streamed live on UATV without any problems or interruptions. Big Bear had 615 peak simultaneous viewers and I had 154; these UATV-specific numbers were in addition to the viewers on Odyssey and D-Live, as we were both streaming on multiple platforms.</p><p>The good news is that the bandwidth logs indicate that UATV is now able to support up to 5,000 simultaneous viewers, and the server infrastructure is already in place to support up to 20,000 simultaneous viewers.</p><p>The next major step will be adding chat functionality, at which point there will be no need to stream on any other platforms unless one wishes to make the stream available to non-subscribers. Superchats will eventually follow, and devs are already working on the apps. We also plan to permit creators to control how open they want any given stream to be, although chat will always be limited to subscribers.</p><p>Anyhow, if you haven’t gotten on board with UATV yet, you might want <a href=\"http://subscribe.unauthorized.tv/join\" rel=\"noopener\" target=\"_blank\">to consider subscribing</a> soon.We’ll also be releasing a new documentary there very soon.</p></div>",
+  "content_text": "Last night UATV successfully took a big step forward, as both Big Bear and I streamed live on UATV without any problems or interruptions. Big Bear had 615 peak simultaneous viewers and I had 154; these UATV-specific numbers were in addition to the viewers on Odyssey and D-Live, as we were both streaming on multiple platforms.\nThe good news is that the bandwidth logs indicate that UATV is now able to support up to 5,000 simultaneous viewers, and the server infrastructure is already in place to support up to 20,000 simultaneous viewers.\nThe next major step will be adding chat functionality, at which point there will be no need to stream on any other platforms unless one wishes to make the stream available to non-subscribers. Superchats will eventually follow, and devs are already working on the apps. We also plan to permit creators to control how open they want any given stream to be, although chat will always be limited to subscribers.\nAnyhow, if you haven’t gotten on board with UATV yet, you might want\nto consider subscribing\nsoon.We’ll also be releasing a new documentary there very soon.",
+  "tags": [
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2021-07-09T14:31:19+00:00"
+}

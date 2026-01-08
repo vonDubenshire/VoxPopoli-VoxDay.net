@@ -1,0 +1,16 @@
+{
+  "url": "https://voxday.net/2021/06/08/internet-outage/",
+  "scraped_at": "2026-01-08T12:36:21.870156",
+  "title": "Internet outage",
+  "date_display": "June 8, 2021",
+  "date_iso": "2021-06-08T10:32:50+00:00",
+  "date_from_url": "2021-06-08",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>From <i>Russia Today</i>:</p><div></div><div><div><i>OUTAGE: USERS REPORT MAJOR SITES DOWN, INCLUDING AMAZON, GUARDIAN, NYT &amp; REDDIT</i></div><div></div><div>I’ve noticed that Outkick and Sports Illustrated are also down. But Arktoons, SocialGalactic, Infogalactic, and Unauthorized are all running fine.</div></div><div></div><div>From <i>The Daily Mail:</i></div><div><i><br/></i></div><div><i>The problem, affecting customers worldwide, appears to be related to Amazon’s Web Service (AWS) crashing, leaving people unable to connect to other websites. </i></div><div><i><br/></i></div><div>And that’s one of the reasons why we run on our own metal, which is made possible by you subscribers.</div></div>",
+  "content_text": "From\nRussia Today\n:\nOUTAGE: USERS REPORT MAJOR SITES DOWN, INCLUDING AMAZON, GUARDIAN, NYT & REDDIT\nI’ve noticed that Outkick and Sports Illustrated are also down. But Arktoons, SocialGalactic, Infogalactic, and Unauthorized are all running fine.\nFrom\nThe Daily Mail:\nThe problem, affecting customers worldwide, appears to be related to Amazon’s Web Service (AWS) crashing, leaving people unable to connect to other websites.\nAnd that’s one of the reasons why we run on our own metal, which is made possible by you subscribers.",
+  "tags": [
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2021-06-08T09:32:50+00:00"
+}

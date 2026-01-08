@@ -1,0 +1,17 @@
+{
+  "url": "https://voxday.net/2023/12/13/outage-update/",
+  "scraped_at": "2026-01-08T14:18:12.728832",
+  "title": "Outage Update",
+  "date_display": "December 13, 2023",
+  "date_iso": "2023-12-13T11:11:00+00:00",
+  "date_from_url": "2023-12-13",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>The Arkhaven store went down for eight hours yesterday thanks to an entire server room crashing hard at the external service we were still using for the site. Ironically, that is the final piece which is not on one of our own servers – despite the error messages, you may have noticed that Infogalactic is considerably snappier these days – but the store will be both a) faster and b) mirrored before the end of the month.</p><p>Fortunately, the site is robust enough that while no new orders could be entered during that time, no subscription orders were lost. So, if you had a subscription that was scheduled for renewal during that time, it was successfully renewed as soon as the outage ended. All is well.</p><p>Thanks to the devs for staying on top of this and quickly ascertaining, within 70 minutes of the outage occurring, what had happened and who was responsible. And to the Library team as well, who noticed and reported the problem within five minutes of the servers going down.</p><p>Speaking of technical matters, we anticipate having some very good news for you on that front soon.</p><p><strong>UPDATE: </strong>Speaking of outages, Arktoons will be down for maintenance for a period of time this afternoon/morning.</p><p><em><a href=\"https://social.infogalactic.com/micropost/52960842-c34d-4e4a-b89a-9e6cd0ad0e90\">DISCUSS ON SG</a></em></p></div>",
+  "content_text": "The Arkhaven store went down for eight hours yesterday thanks to an entire server room crashing hard at the external service we were still using for the site. Ironically, that is the final piece which is not on one of our own servers – despite the error messages, you may have noticed that Infogalactic is considerably snappier these days – but the store will be both a) faster and b) mirrored before the end of the month.\nFortunately, the site is robust enough that while no new orders could be entered during that time, no subscription orders were lost. So, if you had a subscription that was scheduled for renewal during that time, it was successfully renewed as soon as the outage ended. All is well.\nThanks to the devs for staying on top of this and quickly ascertaining, within 70 minutes of the outage occurring, what had happened and who was responsible. And to the Library team as well, who noticed and reported the problem within five minutes of the servers going down.\nSpeaking of technical matters, we anticipate having some very good news for you on that front soon.\nUPDATE:\nSpeaking of outages, Arktoons will be down for maintenance for a period of time this afternoon/morning.\nDISCUSS ON SG",
+  "tags": [
+    "Arkhaven",
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2023-12-13T13:21:25+00:00"
+}
