@@ -1,0 +1,17 @@
+{
+  "url": "https://voxday.net/2025/12/13/ebook-creation-instructions/",
+  "scraped_at": "2026-01-08T20:39:08.973052",
+  "title": "Ebook Creation Instructions",
+  "date_display": "December 13, 2025",
+  "date_iso": "2025-12-13T00:27:36+00:00",
+  "date_from_url": "2025-12-13",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>I prepared these for a friend who wanted to make a basic ebook from a text file. I figured they might be useful to some readers here in case they wanted to do something similar. This will provide a basic ebook without much in the way of formatting.</p><ol class=\"wp-block-list\"><li>Save the document in .docx or .rtf format.</li><li>Download Calibre for your operating system.<ol class=\"wp-block-list\"><li>https://calibre-ebook.com/download</li></ol></li><li>Open Calibre.</li><li>Click the big green “Add books” icon.</li><li>Locate the file and click Open. The file will be added to the list of titles in the middle.</li><li>Find the title of the file you added and click once to select it.</li><li>Click the big brown “Convert books” icon.</li><li>Add the metadata on the right. Title, Author, Author Sort, etc.</li><li>Click on the little icon next to the box under Change cover image in the middle.</li><li>Select your cover image.</li><li>Change Output format in the selection box in the top right to EPUB.</li><li>Click OK.</li><li>Click once to select the title and either hit the O key or right click and select Open Book Folder -&gt; Open Book Folder.</li></ol><p>There’s your ebook!</p><p><em><a href=\"https://socialgalactic.com/micropost/cac4383b-dd00-41cd-80bc-7383df4adfc2\">DISCUSS ON SG</a></em></p></div>",
+  "content_text": "I prepared these for a friend who wanted to make a basic ebook from a text file. I figured they might be useful to some readers here in case they wanted to do something similar. This will provide a basic ebook without much in the way of formatting.\nSave the document in .docx or .rtf format.\nDownload Calibre for your operating system.\nhttps://calibre-ebook.com/download\nOpen Calibre.\nClick the big green “Add books” icon.\nLocate the file and click Open. The file will be added to the list of titles in the middle.\nFind the title of the file you added and click once to select it.\nClick the big brown “Convert books” icon.\nAdd the metadata on the right. Title, Author, Author Sort, etc.\nClick on the little icon next to the box under Change cover image in the middle.\nSelect your cover image.\nChange Output format in the selection box in the top right to EPUB.\nClick OK.\nClick once to select the title and either hit the O key or right click and select Open Book Folder -> Open Book Folder.\nThere’s your ebook!\nDISCUSS ON SG",
+  "tags": [
+    "books",
+    "technology"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2025-12-13T00:27:37+00:00"
+}

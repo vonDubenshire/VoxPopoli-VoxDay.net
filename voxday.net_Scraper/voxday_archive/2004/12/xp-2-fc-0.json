@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2004/12/14/xp-2-fc-0/",
+  "scraped_at": "2026-01-08T19:47:35.605378",
+  "title": "XP 2 – FC 0",
+  "date_display": "December 14, 2004",
+  "date_iso": "2004-12-14T18:31:00+00:00",
+  "date_from_url": "2004-12-14",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>I finally got my DVD audio working in XP yesterday.  Forget drivers and the useless Microsoft Help forums, downloading a trialware copy of WinDVD rewrote over something that wasn’t working and made the OEM version work.  Sweet Cthulhu, but I hate this DRM nonsense.</p><p>Unfortunately, XINE hasn’t been an option yet, since the issue there isn’t the DVD audio, but an apparent Fedora Core 2 problem supporting the Intel 82801EB/ER (ICH5/ICH5R) AC’97 audio controller.  Also, despite an apparent fix in XORG.CONF, I haven’t gotten my screen to work at 1680×1050 yet.  1400×1050 and a display that calls itself the 1680×1050 option is as much as I’ve managed so far.  It’s pretty annoying since everything is slightly stretched; not so much as to be unusable, just a little vaguely unsettling to the eyes.</p><p>Ideas, as always, are appreciated.  And no, I’m not switching to SUSE, Mandrake, Ubuntu or anything else until after I get these issues figured out… unless it’s just impossible.<br/></p></div>",
+  "content_text": "I finally got my DVD audio working in XP yesterday.  Forget drivers and the useless Microsoft Help forums, downloading a trialware copy of WinDVD rewrote over something that wasn’t working and made the OEM version work.  Sweet Cthulhu, but I hate this DRM nonsense.\nUnfortunately, XINE hasn’t been an option yet, since the issue there isn’t the DVD audio, but an apparent Fedora Core 2 problem supporting the Intel 82801EB/ER (ICH5/ICH5R) AC’97 audio controller.  Also, despite an apparent fix in XORG.CONF, I haven’t gotten my screen to work at 1680×1050 yet.  1400×1050 and a display that calls itself the 1680×1050 option is as much as I’ve managed so far.  It’s pretty annoying since everything is slightly stretched; not so much as to be unusable, just a little vaguely unsettling to the eyes.\nIdeas, as always, are appreciated.  And no, I’m not switching to SUSE, Mandrake, Ubuntu or anything else until after I get these issues figured out… unless it’s just impossible.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2004-12-14T18:31:00+00:00"
+}

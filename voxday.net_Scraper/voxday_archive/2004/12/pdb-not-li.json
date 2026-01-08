@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2004/12/04/pdb-not-li/",
+  "scraped_at": "2026-01-08T19:46:32.882646",
+  "title": "PDB not LIT",
+  "date_display": "December 4, 2004",
+  "date_iso": "2004-12-04T15:59:00+00:00",
+  "date_from_url": "2004-12-04",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>I quite like reading ebooks, usually in Palm Doc (pdb) format.  Microsoft has its own Microsoft Reader as well, and as usual, they’ve tried to make its .LIT format hard to use or convert.  They’ve been bitchslapped by the Invisible Hand, of course, as some enterprising soul has written a program called ConvertLIT which breaks the .LIT file into its component parts.</p><p>This is quite possibly illegal under the increasingly fascist DRM law.  And while it’s good to practice civil disobedient piracy, it’s even better to render it irrelevant.  What I’d really like to see is an open source Reader program running in Linux that uses an open source file format with easy graphical conversion to and from txt, rtf, pdb, pdf, html, doc and lit.</p><p>Any interested programmers out there?  Let me know and I’ll design that bad boy.<br/></p></div>",
+  "content_text": "I quite like reading ebooks, usually in Palm Doc (pdb) format.  Microsoft has its own Microsoft Reader as well, and as usual, they’ve tried to make its .LIT format hard to use or convert.  They’ve been bitchslapped by the Invisible Hand, of course, as some enterprising soul has written a program called ConvertLIT which breaks the .LIT file into its component parts.\nThis is quite possibly illegal under the increasingly fascist DRM law.  And while it’s good to practice civil disobedient piracy, it’s even better to render it irrelevant.  What I’d really like to see is an open source Reader program running in Linux that uses an open source file format with easy graphical conversion to and from txt, rtf, pdb, pdf, html, doc and lit.\nAny interested programmers out there?  Let me know and I’ll design that bad boy.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2004-12-04T15:59:00+00:00"
+}

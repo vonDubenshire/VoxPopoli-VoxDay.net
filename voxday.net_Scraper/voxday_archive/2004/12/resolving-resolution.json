@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2004/12/15/resolving-resolution/",
+  "scraped_at": "2026-01-08T19:47:39.243503",
+  "title": "Resolving the resolution",
+  "date_display": "December 15, 2004",
+  "date_iso": "2004-12-15T10:45:00+00:00",
+  "date_from_url": "2004-12-15",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Kriston, I tried to email you my log file as well as my xorg.conf, but it got caught by your spam filter and bounced.  The discrepancy is as follows: there are already 1680 modelines in the .conf file but no reference to 1680 shows up in the log file you mentioned.  The 1400 resolutions show up in the log file even though there are no 1400 modelines, and of course, the system is running at 1400×1050 instead of 1680×1050 as in XP.</p><p>Any ideas?<br/></p></div>",
+  "content_text": "Kriston, I tried to email you my log file as well as my xorg.conf, but it got caught by your spam filter and bounced.  The discrepancy is as follows: there are already 1680 modelines in the .conf file but no reference to 1680 shows up in the log file you mentioned.  The 1400 resolutions show up in the log file even though there are no 1400 modelines, and of course, the system is running at 1400×1050 instead of 1680×1050 as in XP.\nAny ideas?",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2004-12-15T10:45:00+00:00"
+}

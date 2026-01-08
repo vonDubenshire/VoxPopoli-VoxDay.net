@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2004/12/11/computer-problems/",
+  "scraped_at": "2026-01-08T19:47:22.592373",
+  "title": "Computer problems",
+  "date_display": "December 11, 2004",
+  "date_iso": "2004-12-11T20:05:00+00:00",
+  "date_from_url": "2004-12-11",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Okay, I finally got FC2 up and running.  Two problems, one of which I know is solvable, one of which worries me a little.</p><p>1.  The Anaconda installer does something stupid with the wireless install for WPC11 cards and fixing it requires making a simple change to a text file or two.  Unfortunately, I can neither remember where I saved the information nor find it on Google.  Anyone know where I can find this info?</p><p>2.  FC2 won’t recognize my sound card.  What’s slightly worrisome is although I have sound in XP, I have no DVD audio.  I can even play music off a CD in that drive, but DVDs play silently in Windows Media Player, InterAudio and Xine (Linux).  Anyone have any idea what’s going on?</p><p>UPDATE – okay, got the wireless going.  Delete Network and run Internet Configuration again, it doesn’t get much simpler than that.  But I’d still like to figure out the sound deal.  Oh, and also, it doesn’t seem to recognize my 1680×1050 resolution either.  Everything is slightly squished.  Have to poke around on that one too.<br/></p></div>",
+  "content_text": "Okay, I finally got FC2 up and running.  Two problems, one of which I know is solvable, one of which worries me a little.\n1.  The Anaconda installer does something stupid with the wireless install for WPC11 cards and fixing it requires making a simple change to a text file or two.  Unfortunately, I can neither remember where I saved the information nor find it on Google.  Anyone know where I can find this info?\n2.  FC2 won’t recognize my sound card.  What’s slightly worrisome is although I have sound in XP, I have no DVD audio.  I can even play music off a CD in that drive, but DVDs play silently in Windows Media Player, InterAudio and Xine (Linux).  Anyone have any idea what’s going on?\nUPDATE – okay, got the wireless going.  Delete Network and run Internet Configuration again, it doesn’t get much simpler than that.  But I’d still like to figure out the sound deal.  Oh, and also, it doesn’t seem to recognize my 1680×1050 resolution either.  Everything is slightly squished.  Have to poke around on that one too.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2004-12-11T20:05:00+00:00"
+}

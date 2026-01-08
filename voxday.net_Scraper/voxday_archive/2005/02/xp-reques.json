@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2005/02/27/xp-reques/",
+  "scraped_at": "2026-01-08T19:54:59.525130",
+  "title": "An XP request",
+  "date_display": "February 27, 2005",
+  "date_iso": "2005-02-27T21:54:00+00:00",
+  "date_from_url": "2005-02-27",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>For reasons that I will not go into, I am forced to boot into XP on a daily basis.  I’m not happy about it, but I have no choice.  Unfortunately, I made the mistake of allowing TPAM to use my laptop one day, and he has the execrable habit of copying things to the Desktop.</p><p>Hence, I am left with a ghost icon called “fax..” on my desktop.  When I try to delete it, I get a “Cannot delete file.  Cannot read from the source file or disk.”  Going to the DOS shell and running a directory doesn’t even show any file called “fax..” and yes, it has two periods.</p><p>Does anyone know how to get rid of this icon?  Intelligent suggestions will be appreciated; I already run Fedora Core 2 most of the time and would not even be booting into XP if I had any alternative.  Thanks….</p></div>",
+  "content_text": "For reasons that I will not go into, I am forced to boot into XP on a daily basis.  I’m not happy about it, but I have no choice.  Unfortunately, I made the mistake of allowing TPAM to use my laptop one day, and he has the execrable habit of copying things to the Desktop.\nHence, I am left with a ghost icon called “fax..” on my desktop.  When I try to delete it, I get a “Cannot delete file.  Cannot read from the source file or disk.”  Going to the DOS shell and running a directory doesn’t even show any file called “fax..” and yes, it has two periods.\nDoes anyone know how to get rid of this icon?  Intelligent suggestions will be appreciated; I already run Fedora Core 2 most of the time and would not even be booting into XP if I had any alternative.  Thanks….",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2005-02-27T21:54:00+00:00"
+}
