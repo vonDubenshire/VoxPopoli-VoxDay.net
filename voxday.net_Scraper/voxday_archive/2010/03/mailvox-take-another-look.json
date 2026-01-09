@@ -1,0 +1,17 @@
+{
+  "url": "https://voxday.net/2010/03/30/mailvox-take-another-look/",
+  "scraped_at": "2026-01-08T23:23:25.858811",
+  "title": "Mailvox: take another look",
+  "date_display": "March 30, 2010",
+  "date_iso": "2010-03-30T18:13:00+00:00",
+  "date_from_url": "2010-03-30",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>HR asks an unexpected question:</p><blockquote><p>I am reading your book and find it fascinating. I really appreciate your laying out the several possible scenarios and the arguments pro and con as well as identifying their supporters.  The chart on your blog of “<a href=\"http://2.bp.blogspot.com/_3UXl0oMYPLs/S5tu0zS1J9I/AAAAAAAAAL4/VlDNorcO8p0/s1600-h/Debt-sector-04-09.png\">Debt Outstanding 2004-2009</a>” I find quite convincing for your position on the key question of inflation vs deflation.  However I also find that the Fed Statistics (see <a href=\"http://www.federalreserve.gov/releases/z1/Current/z1r-2.pdf\">page 9 of this link</a>) seem to show quite different trends and support the opposite conclusion.  What is the source for your chart?</p></blockquote><p>I’m glad HR finds it worthwhile reading.  My source for the sector debt is the Federal Reserve flow of funds account.  Notice how the red line for Federal debt on the chart ends a little below the $8,000 billion line.  If you look a little more carefully at the linked PDF, you’ll see that this corresponds rather neatly with the $7,805 billion reported in 2009-Q4 for the Federal Government.  The reason for this is that the Federal Reserve flow of funds account is, in fact, the very Z1 report that HR cited.</p><p>In other words, you have to look at the bottom of the page, not the top, since those are the 1978 numbers.  It’s a bit easier to see this in <a href=\"http://www.federalreserve.gov/releases/z1/Current/accessible/l1.htm\">the online version</a>, in which the years run from left to right.</p></div>",
+  "content_text": "HR asks an unexpected question:\nI am reading your book and find it fascinating. I really appreciate your laying out the several possible scenarios and the arguments pro and con as well as identifying their supporters.  The chart on your blog of “\nDebt Outstanding 2004-2009\n” I find quite convincing for your position on the key question of inflation vs deflation.  However I also find that the Fed Statistics (see\npage 9 of this link\n) seem to show quite different trends and support the opposite conclusion.  What is the source for your chart?\nI’m glad HR finds it worthwhile reading.  My source for the sector debt is the Federal Reserve flow of funds account.  Notice how the red line for Federal debt on the chart ends a little below the $8,000 billion line.  If you look a little more carefully at the linked PDF, you’ll see that this corresponds rather neatly with the $7,805 billion reported in 2009-Q4 for the Federal Government.  The reason for this is that the Federal Reserve flow of funds account is, in fact, the very Z1 report that HR cited.\nIn other words, you have to look at the bottom of the page, not the top, since those are the 1978 numbers.  It’s a bit easier to see this in\nthe online version\n, in which the years run from left to right.",
+  "tags": [
+    "economics",
+    "mailvox"
+  ],
+  "categories": [],
+  "sitemap_lastmod": "2010-03-30T17:13:00+00:00"
+}

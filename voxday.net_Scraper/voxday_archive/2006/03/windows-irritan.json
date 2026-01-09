@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2006/03/18/windows-irritan/",
+  "scraped_at": "2026-01-08T21:02:19.390707",
+  "title": "Windows irritant",
+  "date_display": "March 18, 2006",
+  "date_iso": "2006-03-18T20:50:00+00:00",
+  "date_from_url": "2006-03-18",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>Does anyone know how to get rid of a ghost icon in Windows XP?  Someone, who shall remain nameless, but is tall, blond and lawyerly, managed to mess up my Windows partition in less than five minutes of being helpful.</p><p>The icon has not one, but two dots in the filename, which appears to be the problem.  The normal file is “<b>XXXX.yyy</b>“, but this particular icon isn’t a shortcut for any real file, as its name is “<b>XXXX..</b>“.  It doesn’t cause any actual problems, but I can’t delete it or point it to something useful and change the name.</p><p>Any ideas?  And yes, I am aware that booting into LINUX is one way to avoid the problem, but if I was interested in avoiding it instead of fixing it, I wouldn’t have bothered posting this request.</p></div>",
+  "content_text": "Does anyone know how to get rid of a ghost icon in Windows XP?  Someone, who shall remain nameless, but is tall, blond and lawyerly, managed to mess up my Windows partition in less than five minutes of being helpful.\nThe icon has not one, but two dots in the filename, which appears to be the problem.  The normal file is “\nXXXX.yyy\n“, but this particular icon isn’t a shortcut for any real file, as its name is “\nXXXX..\n“.  It doesn’t cause any actual problems, but I can’t delete it or point it to something useful and change the name.\nAny ideas?  And yes, I am aware that booting into LINUX is one way to avoid the problem, but if I was interested in avoiding it instead of fixing it, I wouldn’t have bothered posting this request.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2006-03-18T20:50:00+00:00"
+}

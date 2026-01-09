@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2008/05/12/html-tags/",
+  "scraped_at": "2026-01-08T22:23:14.070391",
+  "title": "Comment issues: HTML tags",
+  "date_display": "May 12, 2008",
+  "date_iso": "2008-05-12T09:37:00+00:00",
+  "date_from_url": "2008-05-12",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>By the way, I think I may have figured out the idiosyncracy that is causing the problem with HTML tags.  If you place the tags on the line above or below the text that you want to bold, blockquote, or italicize, coComment will not recognize the tags.  They must be placed directly in front and behind the text.</p><p>For example, this will work, albeit with less than/greater than signs rather than brackets.</p><p>[tag]HTML-formatted text[/tag]</p><p>The following will not work:</p><p>[tag]<br>HTML-formatted text<br>[/tag]</br></br></p><p>Now, this is obviously something that Blackblade and company will want to fix, but in the meantime, that should take care of the intermittent HTML tag problem that we’ve all been experiencing.  I’m not sure why some people are still experiencing truncation issues, as that’s obviously been mostly fixed, but it appears to be somehow related to posts with large number of comments.</p></div>",
+  "content_text": "By the way, I think I may have figured out the idiosyncracy that is causing the problem with HTML tags.  If you place the tags on the line above or below the text that you want to bold, blockquote, or italicize, coComment will not recognize the tags.  They must be placed directly in front and behind the text.\nFor example, this will work, albeit with less than/greater than signs rather than brackets.\n[tag]HTML-formatted text[/tag]\nThe following will not work:\n[tag]\nHTML-formatted text\n[/tag]\nNow, this is obviously something that Blackblade and company will want to fix, but in the meantime, that should take care of the intermittent HTML tag problem that we’ve all been experiencing.  I’m not sure why some people are still experiencing truncation issues, as that’s obviously been mostly fixed, but it appears to be somehow related to posts with large number of comments.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2008-05-12T08:37:00+00:00"
+}

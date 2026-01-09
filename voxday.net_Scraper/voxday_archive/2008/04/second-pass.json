@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2008/04/30/second-pass/",
+  "scraped_at": "2026-01-08T22:21:38.294273",
+  "title": "Second pass",
+  "date_display": "April 30, 2008",
+  "date_iso": "2008-04-30T11:13:00+00:00",
+  "date_from_url": "2008-04-30",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>As you can probably see, the wildly popular “comments on the main page” are gone.  The post page is now operative and later in the week the window option will be as well.  Is there interest in being able to collapse and reverse order the post page comments or do you think that should be reserved for the window?  (The window is actually a frame, to be precise.)</p><p>Note that clicking on the number of comments in the post page will refresh the post page.  There isn’t an alert that new comments have appeared yet, but there will be.  If you have any ideas on this score, this would be the time to mention them.  On a stylistic note, while it’s nice that the comments integrate with the blog’s color scheme so well, the dark blue namebars tend to look a bit overwhelming.  If you think you’ve got a better color scheme in mind, please make specific suggestions complete with the HTML color references.</p></div>",
+  "content_text": "As you can probably see, the wildly popular “comments on the main page” are gone.  The post page is now operative and later in the week the window option will be as well.  Is there interest in being able to collapse and reverse order the post page comments or do you think that should be reserved for the window?  (The window is actually a frame, to be precise.)\nNote that clicking on the number of comments in the post page will refresh the post page.  There isn’t an alert that new comments have appeared yet, but there will be.  If you have any ideas on this score, this would be the time to mention them.  On a stylistic note, while it’s nice that the comments integrate with the blog’s color scheme so well, the dark blue namebars tend to look a bit overwhelming.  If you think you’ve got a better color scheme in mind, please make specific suggestions complete with the HTML color references.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2008-04-30T10:13:00+00:00"
+}

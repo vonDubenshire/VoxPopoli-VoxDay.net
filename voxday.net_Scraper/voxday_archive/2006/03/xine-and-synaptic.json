@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2006/03/04/xine-and-synaptic/",
+  "scraped_at": "2026-01-08T21:01:19.306217",
+  "title": "Xine and Synaptic",
+  "date_display": "March 4, 2006",
+  "date_iso": "2006-03-04T17:48:00+00:00",
+  "date_from_url": "2006-03-04",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>So, I can finally go back to using Linux, but I’m having a problem with Xine.  Somehow, the upgrade to FC4 caused Xine to go out of whack and when I try to reinstall it with Synaptic, I get an package error about xinelib.so.1 and something called libcurl.so.2 or whatever.  I’m using the standard repositories, so perhaps it’s as simple as being directed to the right ones, but anyhow, if anyone has any ideas, let me know.</p></div>",
+  "content_text": "So, I can finally go back to using Linux, but I’m having a problem with Xine.  Somehow, the upgrade to FC4 caused Xine to go out of whack and when I try to reinstall it with Synaptic, I get an package error about xinelib.so.1 and something called libcurl.so.2 or whatever.  I’m using the standard repositories, so perhaps it’s as simple as being directed to the right ones, but anyhow, if anyone has any ideas, let me know.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2006-03-04T17:48:00+00:00"
+}

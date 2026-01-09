@@ -1,0 +1,14 @@
+{
+  "url": "https://voxday.net/2008/10/10/comment-shuffle-fixed/",
+  "scraped_at": "2026-01-08T22:37:36.687394",
+  "title": "Comment shuffle fixed",
+  "date_display": "October 10, 2008",
+  "date_iso": "2008-10-10T10:25:00+00:00",
+  "date_from_url": "2008-10-10",
+  "author": "VD",
+  "content_html": "<div class=\"entry-content\"><p>In which the blog collectively performs a service:</p><blockquote><p>We were tracking a bug were in some very rare occasions the comment was improperly sorted after an edit. But as we were not able to reproduce it (although we spent lots of time creating and editing comments…..), we were struggling with it…..  As you reported some comments with this problem on your blog, we have been able to identify the issue and this is fixed now.</p></blockquote><p>God clearly works in some very mysterious ways… considering that even Jamie’s incoherencies work towards the common good.</p></div>",
+  "content_text": "In which the blog collectively performs a service:\nWe were tracking a bug were in some very rare occasions the comment was improperly sorted after an edit. But as we were not able to reproduce it (although we spent lots of time creating and editing comments…..), we were struggling with it…..  As you reported some comments with this problem on your blog, we have been able to identify the issue and this is fixed now.\nGod clearly works in some very mysterious ways… considering that even Jamie’s incoherencies work towards the common good.",
+  "tags": [],
+  "categories": [],
+  "sitemap_lastmod": "2008-10-10T09:25:00+00:00"
+}
