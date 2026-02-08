@@ -3,9 +3,9 @@ import glob
 import json
 import os
 
-DEFAULT_ARCHIVE_DIR = "voxday.net_Scraper/voxday_archive"
-DEFAULT_OUTPUT_FILE = "voxday_corpus.jsonl"
-
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DEFAULT_ARCHIVE_DIR = os.path.join(SCRIPT_DIR, "voxday_archive")
+DEFAULT_OUTPUT_FILE = os.path.join(os.path.dirname(SCRIPT_DIR), "voxday_corpus.jsonl")
 
 def normalize_text(value):
     if value is None:
