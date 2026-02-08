@@ -45,6 +45,26 @@ The scraper will:
 
 You can safely interrupt with `Ctrl+C` at any time. Progress is saved, and running the script again will resume from where it left off.
 
+## Compile the archive for Gemini/ChatGPT
+
+If you already have `voxday_archive/` populated, you can compile all posts into a single file.
+
+### Plain text corpus
+
+```bash
+python extract_content.py
+```
+
+This writes `voxday_corpus.txt` with title/date/content blocks.
+
+### JSONL corpus (recommended for LLM ingestion)
+
+```bash
+python build_jsonl.py
+```
+
+This writes `voxday_corpus.jsonl` with one post per line, containing title, date, url, author, tags, categories, and content.
+
 ## Output Structure
 
 ```
