@@ -2,13 +2,14 @@ import os
 import json
 import glob
 
-# Path to the archive directory relative to the repo root
-ARCHIVE_DIR = "voxday.net_Scraper/voxday_archive"
-OUTPUT_FILE = "voxday_corpus.txt"
+# Path to the archive directory relative to the script location
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ARCHIVE_DIR = os.path.join(BASE_DIR, "voxday_archive")
+OUTPUT_FILE = os.path.join(BASE_DIR, "voxday_corpus.txt")
 
 def main():
     if not os.path.exists(ARCHIVE_DIR):
-        print(f"Error: Archive directory '{ARCHIVE_DIR}' not found from current directory '{os.getcwd()}'.")
+        print(f"Error: Archive directory '{ARCHIVE_DIR}' not found.")
         return
 
     # The directories are YYYY/MM.

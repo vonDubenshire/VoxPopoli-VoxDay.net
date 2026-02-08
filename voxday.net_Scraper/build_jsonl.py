@@ -2,8 +2,9 @@ import os
 import json
 import glob
 
-ARCHIVE_DIR = "voxday.net_Scraper/voxday_archive"
-OUTPUT_FILE = "voxday_corpus.jsonl"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ARCHIVE_DIR = os.path.join(BASE_DIR, "voxday_archive")
+OUTPUT_FILE = os.path.join(BASE_DIR, "voxday_corpus.jsonl")
 
 
 def normalize_text(value):
@@ -15,7 +16,7 @@ def normalize_text(value):
 def main():
     if not os.path.exists(ARCHIVE_DIR):
         print(
-            f"Error: Archive directory '{ARCHIVE_DIR}' not found from current directory '{os.getcwd()}'."
+            f"Error: Archive directory '{ARCHIVE_DIR}' not found."
         )
         return
 
